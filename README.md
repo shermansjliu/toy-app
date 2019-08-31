@@ -1,24 +1,5 @@
-# README
+# Toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an assignment from The Odin Project -> Ruby on Rails -> Introduction to Rails -> Project Getting your feet wet
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*[Tutorial]https://www.railstutorial.org/book/toy_app#fig-mvc_detailed
